@@ -1,0 +1,4 @@
+name=R&M
+description=A Rick & Morty Announcer Pack
+author=shiftedView
+api_version=0.1.0
